@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">• Adicionar nomes de amigos a uma lista<br>• Sortear um amigo secreto aleatoriamente<br>• Reiniciar o sorteio mantendo a lista de amigos<br>• Limpar toda a lista de nomes</p>
+- Adicionar nomes de amigos a uma lista
+- Sortear um amigo secreto aleatoriamente<br>
+- Reiniciar o sorteio mantendo a lista de amigos<br>
+- Limpar toda a lista de nomes</p>
 
 ###
 
@@ -40,7 +43,13 @@
 
 ###
 
-<p align="left">📁 amigo_secreto_alura/<br>│-- 📁 assets/   # Imagens e ícones<br>│-- 📁 app.js      # Lógica do sorteio<br>│-- 📁 index.html  # Estrutura da página<br>│-- 📁 style.css   # Estilos visuais<br></p>
+```bash
+📁 amigo_secreto_alura
+├── 📁 assets      # Imagem
+├── app.js         # Lógica do sorteio
+├── index.html     # Estrutura da página
+├── style.css      # Estilos visuais
+```
 
 ###
 
@@ -48,7 +57,9 @@
 
 ###
 
-<p align="left">• Implementar um sistema que garanta que um participante não tire a si mesmo.<br><br>• Permitir exportar a lista de sorteio para um arquivo.<br><br>• Criar uma versão responsiva aprimorada para dispositivos móveis.</p>
+- Implementar um sistema que garanta que um participante não tire a si mesmo.
+- Permitir exportar a lista de sorteio para um arquivo.
+- Criar uma versão responsiva aprimorada para dispositivos móveis.
 
 ###
 
