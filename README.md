@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">📁 amigo_secreto_alura/<br>│-- 📁 index.html  # Estrutura da página<br>│-- 📁 style.css   # Estilos visuais<br>│-- 📁 app.js      # Lógica do sorteio<br>│-- 📁 assets/     # Imagens e ícones</p>
+<p align="left">📁 amigo_secreto_alura/<br>│-- 📁 assets/   # Imagens e ícones<br>│-- 📁 app.js      # Lógica do sorteio<br>│-- 📁 index.html  # Estrutura da página<br>│-- 📁 style.css   # Estilos visuais<br></p>
 
 ###
 
